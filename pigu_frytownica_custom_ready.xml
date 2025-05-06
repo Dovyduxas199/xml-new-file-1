@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<products>
+  <product>
+    <category-id>510</category-id>
+    <category-name><![CDATA[Gruzdintuvės]]></category-name>
+    <title><![CDATA[Profesionali dviguba elektrinė gruzdintuvė su čiaupais, 2 x 10 l, 400 V, Royal Catering]]></title>
+    <title-ru><![CDATA[]]></title-ru>
+    <title-lv><![CDATA[]]></title-lv>
+    <title-ee><![CDATA[]]></title-ee>
+    <long-description><![CDATA[
+<p><strong>Profesionali dviejų skyrių elektrinė gruzdintuvė</strong> su nutekėjimo čiaupais idealiai tinka restoranams, užkandinėms, valgykloms ar maitinimo įmonėms. Įrenginys turi dvi atskiras 16 litrų talpos kameras su atskirais 6000 W kaitinimo elementais, leidžiančiais greitai pasiekti iki 200 °C temperatūrą.</p>
+<p>Kiekviena kamera veikia savarankiškai – tai leidžia vienu metu kepti skirtingus patiekalus. Termostatai palaiko nustatytą temperatūrą ir automatiškai išsijungia, kai ji viršijama. Išimami krepšeliai, kaitinimo elementai ir čiaupai užtikrina lengvą valymą.</p>
+<ul>
+<li><strong>Talpa:</strong> 2 x 16 l (įpylimo talpa – 2 x 10 l)</li>
+<li><strong>Kaitinimo galia:</strong> 2 x 6000 W</li>
+<li><strong>Įtampa:</strong> 400 V</li>
+<li><strong>Temperatūra:</strong> iki 200 °C</li>
+<li><strong>Medžiaga:</strong> Nerūdijantis plienas</li>
+<li><strong>Išmatavimai:</strong> 69 x 52 x 37 cm</li>
+<li><strong>Svoris:</strong> 19,3 kg</li>
+</ul>
+]]></long-description>
+    <long-description-ru><![CDATA[]]></long-description-ru>
+    <long-description-lv><![CDATA[]]></long-description-lv>
+    <long-description-ee><![CDATA[]]></long-description-ee>
+    <video-youtube>http://www.youtube.com/watch?v=65Chy5kPQ-Y</video-youtube>
+    <properties>
+      <property>
+        <id><![CDATA[manufacturer]]></id>
+        <values>
+          <value><![CDATA[Royal Catering]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[country]]></id>
+        <values>
+          <value><![CDATA[Vokietija]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image>
+            <url>https://www.hurtowniaprzemyslowa.pl/images/produkty/103/10010010-frytownica-podwojna-dwukomorowa-z-kranami-400v-hurtownia-sklep-zielona-gora.jpg</url>
+          </image>
+          <image>
+            <url>https://www.hurtowniaprzemyslowa.pl/images/produkty/103/10010010-1.jpg</url>
+          </image>
+          <image>
+            <url>https://www.hurtowniaprzemyslowa.pl/images/produkty/103/10010010-2.jpg</url>
+          </image>
+          <image>
+            <url>https://www.hurtowniaprzemyslowa.pl/images/produkty/103/10010010-3.jpg</url>
+          </image>
+          <image>
+            <url>https://www.hurtowniaprzemyslowa.pl/images/produkty/103/10010010-4.jpg</url>
+          </image>
+          <image>
+            <url>https://www.hurtowniaprzemyslowa.pl/images/produkty/103/10010010-5.jpg</url>
+          </image>
+          <image>
+            <url>https://www.hurtowniaprzemyslowa.pl/images/produkty/103/10010010-6.jpg</url>
+          </image>
+        </images>
+        <modifications>
+          <modification>
+            <modification-title>2x10L</modification-title>
+            <weight>22.34</weight>
+            <length>69</length>
+            <height>37</height>
+            <width>52</width>
+            <attributes>
+              <barcodes>
+                <barcode>4250928686947</barcode>
+              </barcodes>
+              <supplier-code><![CDATA[jy8489499448]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+</products>
